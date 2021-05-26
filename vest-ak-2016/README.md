@@ -22,6 +22,13 @@ https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NH5S2I&
     - Direct link:
 https://dataverse.harvard.edu/file.xhtml?fileId=4499004&version=56.0
 
+- VEST, Alaska 2018 Documentation
+    - Accessed, 05/25/2021
+    - Source: VEST on the Harvard Dataverse
+    - Direct link:
+https://dataverse.harvard.edu/file.xhtml?fileId=4499066&version=36.0
+    - Note: This was used to see VEST's methodology for allocating state-level votes.
+
 - Precinct Shapefile for Alaska
     - Accessed, 05/25/2021
     - Source: Alaska Division of Elections
