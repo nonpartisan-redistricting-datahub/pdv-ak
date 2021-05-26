@@ -23,7 +23,7 @@ https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NH5S2I&
 https://dataverse.harvard.edu/file.xhtml?fileId=4499004&version=56.0
 
 - VEST, Alaska 2018 Documentation
-    - Accessed, 05/25/2021
+    - Accessed, 05/26/2021
     - Source: VEST on the Harvard Dataverse
     - Direct link:
 https://dataverse.harvard.edu/file.xhtml?fileId=4499066&version=36.0
@@ -38,6 +38,7 @@ http://www.elections.alaska.gov/doc/info/2013-SW-Precinct-Proc-Plan.zip
     - Note: On the dataset page link (above) select the hyperlink for “Statewide Precinct Shape files” and the file will download.
     
 - Election results for Alaska, November 8, 2016:
+    - Accessed, 05/25/2021
     - Source: Alaska Division of Elections
     - Direct download link:
 https://www.elections.alaska.gov/results/16GENR/data/resultsbyprct.txt
