@@ -8,7 +8,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 
 ## Raw from source:
 
-- VEST, Alaska 2016 Data File
+- VEST, Alaska 2016 Data File  
     - Accessed, 05/25/2021
     - Source: VEST on the Harvard Dataverse
     - Direct link:
