@@ -34,7 +34,7 @@ http://www.elections.alaska.gov/doc/info/2013-SW-Precinct-Proc-Plan.zip
     - Direct download link:
 http://www.elections.alaska.gov/results/20GENR/resultsbyprecinct.txt
     - Dataset page: https://www.elections.alaska.gov/results/20GENR/index.php
-    - Note: On the dataset page link (above) right-click the hyperlink for “TEXT BY PRECINCT” under “Statewide Summary” and click "Save File As" and you can download the txt file locally.
+    - Note: On the dataset page link (above) right-click the hyperlink for “Results By Precincts (Text)” under “Statewide Summary” and click "Save File As" and you can download the txt file locally.
 
 ## File processing: 
 
